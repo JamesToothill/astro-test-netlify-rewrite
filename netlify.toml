@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/*"
-  to = "https://eosdtzefjgx7afv.m.pipedream.net/:splat"
-  status = 200
-  headers = {X-Forwarded-Host = "testing.com"}
